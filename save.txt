@@ -1,0 +1,77 @@
+  <!-- ======= Personal Resume ======= -->
+  <section id="resume" class="resume">
+    <div class="container">
+
+      <div class="section-title">
+        <h2>Personal Resume</h2>
+        <p>Check My Resume</p>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-6">
+          <h3 class="resume-title">Ringkasan</h3>
+          <div class="resume-item pb-0">
+            <h4>DJ Carlos</h4>
+            <p><em>Editor Video yang berorientasi pada tenggat waktu serta tingkat visualitas dan audio yang tinggi. Gamer yang memiliki pengalaman mendapatkan passive income. Terampil memilih dan memainkan rekaman suara atau musik dengan pengalaman lebih dari 6 tahun audio recording yang berpusat pada perkembangan musik dari waktu ke waktu.</em></p>
+            <p>
+            <ul>
+              <li>Pontianak,West Borneo, ID</li>
+              <li>+62 892-9932-7664</li>
+              <li>contact.ptdna@gmail.com</li>
+            </ul>
+            </p>
+          </div>
+
+          <h3 class="resume-title">Education</h3>
+          <div class="resume-item">
+            <h4>Master of DJ Player</h4>
+            <h5>2010 - 2012</h5>
+            <p><em>Trax DJ Academy, Malaysia</em></p>
+            <p>Pengalaman memainkan alat Disjoki lebih dari 3 tahun mulai dari tahun 2012. Telah meluncurkan lebih dari 10 sound track dengan durasi musik 2 jam.</p>
+          </div>
+          <div class="resume-item">
+            <h4>Editor Video </h4>
+            <h5>2013 - 2017</h5>
+            <p><em>SAE Institute Jakarta, Indonesia</em></p>
+            <p>Memiliki pengalaman dalam editing video lebih dari 5 tahun. Bekarya mulai dari mengambil video dari 0 kemudian melakukan proses editing sesuai permintaan client dengan tenggat waktu yang disepakati serta dengan harga yang ramah.</p>
+          </div>
+          <div class="resume-item">
+            <h4>Editor Video </h4>
+            <h5>2020 - Present</h5>
+            <p><em>Tanjungpura University, Indonesia</em></p>
+            <p>Masih berstatus Mahasiswa dengan kemampuan web designer. Menerima jasa pembuatan web serta jasa hosting web dengan harga yang bisa dinegosiasikan. Bekerja sebagai video editor sambil menjalani pendidikan di Universitas Tanjungpura.</p>
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <h3 class="resume-title">Professional Experience</h3>
+          <div class="resume-item">
+            <h4>Senior Editor Video</h4>
+            <h5>2019 - Present</h5>
+            <p><em>Sound X2 Studio Pontianak,Indonesia </em></p>
+            <p>
+            <ul>
+              <li>Hasil edit sesuai dengan permintaan client</li>
+              <li>Pembuatan tidak membutuhkan waktu lama dan hasil yang memuaskan </li>
+              <li>Bisa membuat berbagai jenis vide mulai dari slowmotion,jedag-jedug,dan sebagainya</li>
+              <li>Rentan harga yang sangat bersahabat mulai dari Rp.1000.000 dengan hasil yang sangat memuaskan</li>
+            </ul>
+            </p>
+          </div>
+          <div class="resume-item">
+            <h4>Jasa Joki &amp; Top up Game</h4>
+            <h5>2020 - Present</h5>
+            <p><em>Sound X2 Studio Pontianak,Indonesia</em></p>
+            <p>
+            <ul>
+              <li>Jasa joki game terpercaya dan dijamin keamanan nya</li>
+              <li>Top Up games murah dan terpercaya tanpa penipuan</li>
+              <li>Jasa joki cepat dan ditangani ahlinya</li>
+              <li>Top up games proses cepat</li>
+            </ul>
+            </p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section><!-- Personal Resume -->
